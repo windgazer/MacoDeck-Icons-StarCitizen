@@ -1,4 +1,4 @@
-<img src="./ExtensionIcon.png" style="display:block;margin:0 auto;width:6em;height:6em;" />
+<div align="center"><img src="./ExtensionIcon.png" style="width:6em;height:6em;" /></div>
 
 # MacoDeck-Icons-StarCitizen
 
