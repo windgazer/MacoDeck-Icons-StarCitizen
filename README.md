@@ -1,3 +1,5 @@
+<img src="./ExtensionIcon.png" style="display:block;margin:0 auto;width:6em;height:6em;" />
+
 # MacoDeck-Icons-StarCitizen
 
 Conversion of [Starcitizen Streamdeck icons][SC] by [Replic Tuanione][OP] to a MacroDeck icon-pack

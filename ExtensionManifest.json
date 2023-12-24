@@ -1,0 +1,11 @@
+{
+    "type" : "IconPack",
+    "name" : "StarCitizen by Replic Tuanione",
+    "author" : "Martin 'Windgazer' Reurings",
+    "repository" : "https://github.com/windgazer/MacoDeck-Icons-StarCitizen",
+    "packageId" : "Windgazer.StarCitizenIconsByReplic",
+    "version" : "0.0.1",
+    "target-plugin-api-version" : 40,
+    "target-macro-deck-version" : "1.13.0",
+    "dll": ""
+ }
