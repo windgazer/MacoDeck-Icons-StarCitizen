@@ -8,6 +8,6 @@ Included in this repository is the [#ReadMe.txt][README] as it was in the stream
 
 My intend is to also add some profiles to this repo, if that's allowed (don't want to break the MacroDeck iconpack integration). Potentially they'll just live in a long-lived branch, as I'd like to keep them together...
 
-[README]: <./#ReadMe.txt> "The artists document."
+[README]: <./%23ReadMe.txt> "The artists document."
 [SC]: <https://robertsspaceindustries.com/community-hub/post/star-citizen-icons-for-stream-deck-pq91xgmnw6yxe> "Original release on SC Community hub"
 [OP]: <https://robertsspaceindustries.com/community-hub/user/Replic> "Replics' Profile"
